@@ -1,0 +1,16 @@
+{
+  "bundle_id": "assurance_9da930765fe1d5a067ac7cf4",
+  "buyer_checks": {
+    "cab_certificate_present": true,
+    "listing_manifest_hash_bound": true,
+    "package_manifest_hash_bound": true,
+    "policy_hash_bound": true,
+    "private_witness_disclosed": false
+  },
+  "claim_type": "zksnark_cab_assurance",
+  "generated_utc": "2026-02-06T19:00:49Z",
+  "listing_id": "listing_computronium_v1_20260206",
+  "note": "Computronium launch assurance bundle",
+  "proof_ref": "proof://marketplace/listing_computronium_v1_20260206/assurance_9da930765fe1d5a067ac7cf4/522b4654a35377fa5f3bd665",
+  "schema": "heyting.marketplace.assurance_summary.v1"
+}

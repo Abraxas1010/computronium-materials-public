@@ -1,0 +1,30 @@
+{
+  "backend": "lean_wasm_solidity",
+  "bundle_id": "contract_lean_wasm_solidity_1770404483",
+  "generated_utc": "2026-02-06T19:01:28Z",
+  "listing_id": "listing_computronium_v1_20260206",
+  "listing_manifest_sha256": "d23e299753c5162b10d9b57006d2f2a6fd62c9b62d6dcebbec9fb1355d343be8",
+  "note": "Computronium launch provable contract bundle",
+  "package_manifest_sha256": "c614382b9908a55b2427e2c163efb11367151de5e346a0e1e2faefefb79020cf",
+  "pipeline": {
+    "backend": "lean_wasm_solidity",
+    "compile_solc": {
+      "bytecode_sha256": "9117a9023ce9a09a77b329b8ab7605f4672401d5ac10144c350f188af1c73219",
+      "contract_name": "HeytingMiniCStylusCalls",
+      "deployed_sha256": "ea03111166b1f335c03aa7f5d7351ed5f74002a918ec00aa62db99d74cedc59f"
+    },
+    "kernel_wasm": "/home/abraxas/Work/heyting/artifacts/discovery/listings/listing_computronium_v1_20260206/contracts/contract_lean_wasm_solidity_1770404483/stylus_export/kernel_stylus.wasm",
+    "kernel_wat": "/home/abraxas/Work/heyting/artifacts/discovery/listings/listing_computronium_v1_20260206/contracts/contract_lean_wasm_solidity_1770404483/stylus_export/kernel_stylus.wat",
+    "run_dir": "/home/abraxas/Work/heyting/artifacts/discovery/listings/listing_computronium_v1_20260206/contracts/contract_lean_wasm_solidity_1770404483/stylus_export",
+    "solidity": "/home/abraxas/Work/heyting/artifacts/discovery/listings/listing_computronium_v1_20260206/contracts/contract_lean_wasm_solidity_1770404483/stylus_export/HeytingMiniCStylus.sol",
+    "wasm_validate": {
+      "exit_code": 0,
+      "ok": true,
+      "stderr": "",
+      "stdout": "",
+      "tool": "/home/abraxas/Work/heyting/tools/wasm_toolchain/bin/wasm-validate"
+    }
+  },
+  "policy_profile_hash": "3f8928e7141cf0f288b855052ba3e723bf195b948b75d4264d9c64f3f9150cf1",
+  "schema": "heyting.marketplace.provable_contract_bundle.v1"
+}

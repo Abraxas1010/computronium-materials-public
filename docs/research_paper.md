@@ -1,0 +1,6 @@
+# Research Paper
+
+Formal Chemistry Definitions and Auditable Certificate Pipelines as Infrastructure for Trustworthy AI-Driven Materials Search
+
+Primary publication:
+https://www.researchgate.net/publication/400494384_Formal_Chemistry_Definitions_and_Auditable_Certificate_Pipelines_as_Infrastructure_for_Trustworthy_AI-Driven_Materials_Search

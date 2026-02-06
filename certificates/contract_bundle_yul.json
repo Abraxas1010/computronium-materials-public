@@ -1,0 +1,24 @@
+{
+  "backend": "lean_yul_solidity",
+  "bundle_id": "contract_lean_yul_solidity_1770404464",
+  "generated_utc": "2026-02-06T19:01:08Z",
+  "listing_id": "listing_computronium_v1_20260206",
+  "listing_manifest_sha256": "1df6d6421d1b075ce7c828c313ba82961055b5b72f3b9a168becd9afd43acdbd",
+  "note": "Computronium launch provable contract bundle",
+  "package_manifest_sha256": "c614382b9908a55b2427e2c163efb11367151de5e346a0e1e2faefefb79020cf",
+  "pipeline": {
+    "backend": "lean_yul_solidity",
+    "compile_solc": {
+      "bytecode_sha256": "e95c4fbed76a403e007003e905880b8ca29607a302a1e403d07f0b16c7b8bc2e",
+      "contract_name": "Bank",
+      "deployed_sha256": "e887e0d455586f9a7076ef3cdd95f0de8af8cbc0beb94bef433c73abe82b1c0d"
+    },
+    "example": "bank",
+    "pipeline_status_ok": true,
+    "run_dir": "/home/abraxas/Work/heyting/artifacts/discovery/listings/listing_computronium_v1_20260206/contracts/contract_lean_yul_solidity_1770404464/pipeline_run",
+    "smoke_ok": true,
+    "status_path": "/home/abraxas/Work/heyting/artifacts/discovery/listings/listing_computronium_v1_20260206/contracts/contract_lean_yul_solidity_1770404464/pipeline_run/status.json"
+  },
+  "policy_profile_hash": "3f8928e7141cf0f288b855052ba3e723bf195b948b75d4264d9c64f3f9150cf1",
+  "schema": "heyting.marketplace.provable_contract_bundle.v1"
+}
